@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-# 🚀 Welcome to Ezgi Sarikayak's GitHub!
+# 🚀 Welcome to Ezgi's GitHub!
 
 ## 🌱 About Me
 I'm a passionate Machine Learning Engineer and Software Developer with a strong educational background and diverse professional experience. I hold a Master's degree in Computer Science from the Technical University of Munich and a Bachelor's in Electrical and Electronic Engineering and Software Engineering from Bahçeşehir University.
