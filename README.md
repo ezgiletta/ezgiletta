@@ -1,17 +1,24 @@
 ### Hi there 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ezgiletta)](https://github.com/anuraghazra/github-readme-stats)
--
-<!--
-**ezgiletta/ezgiletta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Welcome to Ezgi Sarikayak's GitHub!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+I'm a passionate Machine Learning Engineer and Software Developer with a strong educational background and diverse professional experience. I hold a Master's degree in Computer Science from the Technical University of Munich and a Bachelor's in Electrical and Electronic Engineering and Software Engineering from Bahçeşehir University.
+
+## Technical Skills
+- **Languages and Frameworks**: Proficient in Python, C#, .NET Core.
+- **Machine Learning**: Experienced in PyTorch, Tensorflow/Keras, Scikit-learn.
+- **Data Science**: Skilled in Pandas, NumPy, Matplotlib.
+- **Development Tools**: Docker, Kubernetes, Azure DevOps, Git, Sagemaker.
+
+## Connect with Me
+- Email: [ezgi.sarikayak@gmail.com](mailto:ezgi.sarikayak@gmail.com)
+- LinkedIn: [linkedin.com/in/ezgisarikayak/](https://linkedin.com/in/ezgisarikayak/)
+
+---
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ezgiletta&show_icons=true&theme=radical)
+
+---
+
+Feel free to check out my repositories and don't hesitate to reach out for collaborations or any interesting discussions!
