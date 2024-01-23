@@ -3,7 +3,10 @@
 # 🚀 Welcome to Ezgi's GitHub!
 
 ## 🌱 About Me
-I'm a passionate Machine Learning Engineer and Software Developer with a strong educational background and diverse professional experience. I hold a Master's degree in Computer Science from the Technical University of Munich and a Bachelor's in Electrical and Electronic Engineering and Software Engineering from Bahçeşehir University.
+- I'm a Machine Learning Engineer and Software Developer
+- 🎓 Master's degree in Computer Science from the Technical University of Munich.
+- 🎓 Bachelor's degree in Electrical and Electronic Engineering and Software Engineering from Bahçeşehir University.
+- 📊 Specialize in LLMs, Time Series Analysis, and Predictive Analytics, aiming to leverage these competencies in sophisticated data-driven projects. Experienced in using advanced data processing and software engineering techniques to deliver robust solutions.
 
 ## 💼 Technical Skills
 - **Languages and Frameworks**: Proficient in Python, C#, .NET Core.
