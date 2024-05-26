@@ -17,11 +17,11 @@
 ## 📫 Connect with Me
 - [📧 Email](mailto:ezgi.sarikayak@gmail.com)
 - [🔗 LinkedIn](https://linkedin.com/in/ezgisarikayak/)
-
+"""
 ---
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ezgiletta&show_icons=true&theme=radical)
 
 ---
-
+"""
 Feel free to check out my repositories and don't hesitate to reach out for collaborations or any interesting discussions!
