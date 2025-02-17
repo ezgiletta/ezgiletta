@@ -3,8 +3,7 @@
 # 🚀 Welcome to Ezgi's GitHub!
 
 - ## 🌱 About Me  
-- 👩‍💻 I'm a PhD Researcher
-- PhD Researcher at Siemens focusing on Generative AI for Green Software Engineering & AI for Software
+- 👩‍💻 I'm a PhD Researcher at Siemens focusing on Generative AI for Green Software Engineering & AI for Software
 - 🎓 Master's in Computer Science, Technical University of Munich (TUM)  
 - 🎓 Bachelor's in Electrical & Electronic Engineering + Software Engineering, Bahçeşehir University  
 - 📊 Specializing in LLMs, Time Series Analysis, Predictive Analytics
