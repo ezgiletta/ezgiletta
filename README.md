@@ -4,10 +4,10 @@
 
 - ## 🌱 About Me  
 - 👩‍💻 I'm a PhD Researcher at Siemens focusing on Generative AI for Green Software Engineering & AI for Software
-- 🎓 Master's in Computer Science, Technical University of Munich (TUM)  
+- 🎓 Master's in Computer Science, Technical University of Munich 
 - 🎓 Bachelor's in Electrical & Electronic Engineering + Software Engineering, Bahçeşehir University  
 - 📊 Specializing in LLMs, Time Series Analysis, Predictive Analytics
-- ⚡ Passionate about leveraging AI for software efficiency, sustainability, and scalability**  
+- ⚡ Passionate about leveraging AI for software efficiency, sustainability
 
 ## 💼 Technical Skills
 - **Languages and Frameworks**: Proficient in Python, C#, .NET Core.
